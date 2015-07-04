@@ -1,0 +1,6 @@
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\bin\Debug\ConsumerProducer.exe.config
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\bin\Debug\ConsumerProducer.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\bin\Debug\ConsumerProducer.pdb
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\obj\Debug\ConsumerProducer.csprojResolveAssemblyReference.cache
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\obj\Debug\ConsumerProducer.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\obj\Debug\ConsumerProducer.pdb
