@@ -1,0 +1,3 @@
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\bin\Debug\ConsumerProducer.exe.config
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\obj\Debug\ConsumerProducer.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducer\obj\Debug\ConsumerProducer.pdb

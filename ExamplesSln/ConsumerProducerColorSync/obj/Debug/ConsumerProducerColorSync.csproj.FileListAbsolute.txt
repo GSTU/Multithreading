@@ -1,0 +1,5 @@
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerColorSync\bin\Debug\ConsumerProducerColorSync.exe.config
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerColorSync\bin\Debug\ConsumerProducerColorSync.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerColorSync\bin\Debug\ConsumerProducerColorSync.pdb
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerColorSync\obj\Debug\ConsumerProducerColorSync.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerColorSync\obj\Debug\ConsumerProducerColorSync.pdb
