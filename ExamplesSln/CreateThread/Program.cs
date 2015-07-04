@@ -20,7 +20,6 @@ namespace CreateThread {
 
     static void Main(string[] args) {
 
-
       Thread thread1 = new Thread(new ThreadStart(SimpleThread));
       Thread thread2 = new Thread(new ParameterizedThreadStart(ThreadWithParams));
       thread2.Start("PARAM");

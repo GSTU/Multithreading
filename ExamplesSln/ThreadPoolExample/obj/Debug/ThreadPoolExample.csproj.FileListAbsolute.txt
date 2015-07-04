@@ -1,0 +1,5 @@
+D:\Git\GSTU\Multithreading\ExamplesSln\ThreadPoolExample\bin\Debug\ThreadPoolExample.exe.config
+D:\Git\GSTU\Multithreading\ExamplesSln\ThreadPoolExample\bin\Debug\ThreadPoolExample.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ThreadPoolExample\bin\Debug\ThreadPoolExample.pdb
+D:\Git\GSTU\Multithreading\ExamplesSln\ThreadPoolExample\obj\Debug\ThreadPoolExample.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ThreadPoolExample\obj\Debug\ThreadPoolExample.pdb
