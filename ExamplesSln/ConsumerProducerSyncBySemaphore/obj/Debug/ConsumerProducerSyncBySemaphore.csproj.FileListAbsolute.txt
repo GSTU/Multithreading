@@ -1,0 +1,5 @@
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerSyncBySemaphore\bin\Debug\ConsumerProducerSyncBySemaphore.exe.config
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerSyncBySemaphore\bin\Debug\ConsumerProducerSyncBySemaphore.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerSyncBySemaphore\bin\Debug\ConsumerProducerSyncBySemaphore.pdb
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerSyncBySemaphore\obj\Debug\ConsumerProducerSyncBySemaphore.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\ConsumerProducerSyncBySemaphore\obj\Debug\ConsumerProducerSyncBySemaphore.pdb

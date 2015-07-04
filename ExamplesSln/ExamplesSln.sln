@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerProducerNotSynchron
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerProducerColorSync", "ConsumerProducerColorSync\ConsumerProducerColorSync.csproj", "{A159CCAD-EA34-4A02-AEED-23C4A526971D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsumerProducerSyncBySemaphore", "ConsumerProducerSyncBySemaphore\ConsumerProducerSyncBySemaphore.csproj", "{04EDB761-607E-4483-AD4E-AF7AF7AA76BD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +33,10 @@ Global
 		{A159CCAD-EA34-4A02-AEED-23C4A526971D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A159CCAD-EA34-4A02-AEED-23C4A526971D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A159CCAD-EA34-4A02-AEED-23C4A526971D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04EDB761-607E-4483-AD4E-AF7AF7AA76BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04EDB761-607E-4483-AD4E-AF7AF7AA76BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04EDB761-607E-4483-AD4E-AF7AF7AA76BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04EDB761-607E-4483-AD4E-AF7AF7AA76BD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
