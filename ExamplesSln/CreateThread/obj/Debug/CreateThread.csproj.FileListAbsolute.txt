@@ -1,0 +1,6 @@
+D:\Git\GSTU\Multithreading\ExamplesSln\CreateThread\bin\Debug\CreateThread.exe.config
+D:\Git\GSTU\Multithreading\ExamplesSln\CreateThread\bin\Debug\CreateThread.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\CreateThread\bin\Debug\CreateThread.pdb
+D:\Git\GSTU\Multithreading\ExamplesSln\CreateThread\obj\Debug\CreateThread.csprojResolveAssemblyReference.cache
+D:\Git\GSTU\Multithreading\ExamplesSln\CreateThread\obj\Debug\CreateThread.exe
+D:\Git\GSTU\Multithreading\ExamplesSln\CreateThread\obj\Debug\CreateThread.pdb
